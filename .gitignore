@@ -3,4 +3,5 @@
 
 /index.html
 
-gitgitgit/*
+gitgitgit/*.txt -> ignora solo esta extension
+# gitgitgit/a.txt -> esto es un ejemplo para hacer con cada archivo individual
